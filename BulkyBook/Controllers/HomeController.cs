@@ -20,6 +20,7 @@ namespace BulkyBook.Controllers
 
         public IActionResult Index()
         {
+            int i = 2;
             return View();
         }
 
